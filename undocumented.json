@@ -1,0 +1,40 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/travis/build/mxcl/Path.swift/Sources/Path+Attributes.swift",
+      "line": 87,
+      "symbol": "Path.Kind",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/mxcl/Path.swift/Sources/Path+Attributes.swift",
+      "line": 88,
+      "symbol": "Path.Kind.directory",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/mxcl/Path.swift/Sources/Path+Attributes.swift",
+      "line": 88,
+      "symbol": "Path.Kind.file",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/mxcl/Path.swift/Sources/Path+Attributes.swift",
+      "line": 88,
+      "symbol": "Path.Kind.symlink",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/travis/build/mxcl/Path.swift/Sources/Path+Attributes.swift",
+      "line": 91,
+      "symbol": "Path.kind",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/travis/build/mxcl/Path.swift"
+}
